@@ -35,7 +35,6 @@ let space7 = "O";
 let space8 = "";
 let space9 = "";
 
-// Construct the board using template literals
 let board = `
  ${space1} | ${space2} | ${space3} 
 -----------
