@@ -96,3 +96,14 @@ while (i < 5) {
 }
 //Pros: Useful when all iterations are not known.
 //Cons: Possibility of endless loop and crashing your computer.
+
+//Do...While Loop
+let i = 0;
+do {
+    console.log(i); // Logs 0, 1, 2, 3, 4
+    i++;
+} while (i < 5);
+
+//Pros: Useful when the loop needs run before the condition is checked.
+//Cons: can lead to endless loop and is the least common loop.
+
