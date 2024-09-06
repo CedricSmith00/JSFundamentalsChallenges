@@ -24,6 +24,7 @@ Math.round (DifferenceInTime / (1000 * 3600 * 24));
 
  console.log("Days from today to my birthdate:\n" + date1.toDateString() + " and " + date2.toDateString() + " is: " + DifferenceInDays + " days");
 
+ 
  //Activity 4
  let space1 = "X";
 let space2 = "O";
