@@ -80,4 +80,5 @@ if (word.charAt(0) === word.charAt(word.length - 1)) {
 }
 
 
+
 //Activity 9
