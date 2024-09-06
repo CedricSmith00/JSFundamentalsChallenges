@@ -22,3 +22,5 @@ const takeOrder = (topping, drink) => {
 takeOrder("Pineapple", "Fanta");
 takeOrder("Pepperoni", "Coke");
 takeOrder("Ham", "Sprite");
+
+//Activity 3
